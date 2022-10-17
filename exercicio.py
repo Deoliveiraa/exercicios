@@ -1,0 +1,6 @@
+a = str(input('Olá, meu nome é Lucas, qual é o seu? '))
+print('Prazer em te conhecer {}'.format(a))
+b = str(input('Me diga, qual foi o dia que você nasceu ?'))
+c = str(input('E qual foi o mês ?'))
+d = str(input('Qual foi o ano ?'))
+print('Então o seu nome é {} e Nasceu em {}/{}/{}, fico Feliz em te conhecer!'.format(a,b,c,d))
