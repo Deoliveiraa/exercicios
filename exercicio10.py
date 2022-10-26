@@ -1,4 +1,4 @@
-# escplhendo um produto e calculando os valores 
+# escolhendo um produto e calculando os valores 
 
 from cgi import print_form
 
@@ -21,4 +21,4 @@ elif (produto == 3):
     preco = quantidade * 3.6
     print("Você comprou {} laranja e o valor a pagar é R${} ".format(quantidade,preco))
 else:
-    print("Erro, por favor refazer o processo")
+    print("Erro, por favor refazer o processo produto inexistente ")
