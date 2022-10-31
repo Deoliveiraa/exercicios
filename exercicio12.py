@@ -1,9 +1,9 @@
-# ingressos vendidos para o cinema 
+# ingressos vendidos para o cinema (exercicio)
 total = 0
 dinheiro = 0
 
 while True:
-    print('Para encerrar digite sair')
+    print('Para encerrar digite sair ')
     idade = input('Qual sua idade? ')
     if idade == 'sair':
         break

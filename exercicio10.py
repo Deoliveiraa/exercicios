@@ -1,8 +1,5 @@
 # escolhendo um produto e calculando os valores 
 
-from cgi import print_form
-
-
 print("Escolha o produto que deseja a seguir ")
 print("Para maça digite numero: 1 ")
 print("Para banana digite numero: 2 ")
